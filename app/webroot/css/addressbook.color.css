@@ -1,0 +1,64 @@
+/*Color sheet for Addressbook*/
+
+/*Background*/
+body {
+    background-color: #CCCCCC;
+}
+
+#content {
+    background-color: #777777;
+}
+
+/*Overview*/
+.overview {
+    background-color: #FFFFFF;
+}
+
+/*Application*/
+.addressbook {
+    background-color: #222222;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+/*Navigation*/
+.addressbook .nav {
+    background-color: #000000;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.addressbook .nav ul li a {
+    color: #0066FF;
+}
+
+.addressbook .nav ul li a:hover {
+    color: #00FF66;
+}
+
+/*Contact List*/
+.addressbook .contact-list {
+    background-color: #FFFFFF;
+}
+
+.addressbook .contact-list ul li.letter-header {
+    background-color: #000044;
+    color: #FFFFFF;
+}
+
+/*Detail*/
+.addressbook .details {
+    background-color: #FFFFFF;
+}
+
+/*Add*/
+.addressbook .add-contact {
+    background-color: #FFFFFF;
+}
+
+
+/*Error Message*/
+.error-message {
+    background-color: #FF7777;
+    color: #FFFFFF;
+}

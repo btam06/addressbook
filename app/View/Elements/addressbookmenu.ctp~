@@ -1,0 +1,12 @@
+<?php
+/*
+ * Display the top menu for the address book to select navigation options
+ */
+?>
+<div class="nav">
+  <ul>
+    <li>Contacts</li>
+    <li>Add Contact</li>
+    <li>Search Contacts</li>
+  </ul>
+</div>

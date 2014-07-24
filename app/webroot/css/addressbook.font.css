@@ -1,0 +1,54 @@
+/*Font Styling for Addressbook*/
+
+/*Global*/
+body {
+    font-family: 'Muli', sans-serif;
+    font-weight: light;
+}
+
+a {
+    text-decoration: none;
+    color: #770000;
+}
+
+li {
+    list-style: none;
+}
+
+h1 {
+    padding: 5px;
+    font-size: 1.25rem;
+}
+
+/*Address book application */
+
+
+
+/*Navigation*/
+
+.nav {
+    text-align: center;
+    line-height: 20px;
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+
+/*Contact display*/
+.addressbook .contact-list ul li.letter-header {
+    line-height: 2rem;
+    padding-left: 15px;
+    font-size: 1.7rem;
+}
+
+/*submit buttons*/
+input[type="submit"] {
+    background-color: #008800;
+    color: #FFFFFF;
+    border: 1px solid #008800;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/*Error Message*/
+.error-message {
+    text-align: center;
+}

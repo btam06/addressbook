@@ -1,0 +1,6 @@
+/*Color sheet for Addressbook*/
+
+/*Background*/
+body {
+    background-color: #CCCCCC;
+}
